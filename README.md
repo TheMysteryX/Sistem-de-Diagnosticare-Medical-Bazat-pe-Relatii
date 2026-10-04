@@ -12,19 +12,19 @@ Sistem expert bazat pe reguli, scris în Python, care sugerează afecțiuni prob
 - Specialități și afecțiuni acoperite
 - 
 **Specialitate                     Afecțiuni**
-1	ORL                              Otită, Sinuzită, Laringită
-2	Oftalmologie	              Conjunctivită, Glaucom, Miopie
-3	Cardiologie	                Hipertensiune, Angină pectorală, Aritmie
-4	Neurologie	                  Migrenă, Epilepsie, AVC
-5	Ortopedie	                    Fractură osoasă, Entorsă, Artrită
-6	Urologie	                      Infecție urinară, Calculi renali, Prostatită
-7	Dermatologie	              Eczemă, Psoriazis, Acnee
-8	Psihiatrie	                    Depresie, Anxietate, Tulburare bipolară
-9	Pneumologie	              Astm, Bronșită, Pneumonie
-10	Gastroenterologie	    Gastrită, Reflux gastroesofagian, Sindrom de colon iritabil
-11	Endocrinologie	        Diabet zaharat, Hipotiroidism, Hipertiroidism
-12	Stomatologie	            Carie dentară, Gingivită, Abces dentar
-13	Pediatrie	                    Varicelă, Rujeolă, Otită la copii
+ 1	ORL                              Otită, Sinuzită, Laringită
+ 2	Oftalmologie	              Conjunctivită, Glaucom, Miopie
+ 3	Cardiologie	                Hipertensiune, Angină pectorală, Aritmie
+ 4	Neurologie	                  Migrenă, Epilepsie, AVC
+ 5	Ortopedie	                    Fractură osoasă, Entorsă, Artrită
+ 6	Urologie	                      Infecție urinară, Calculi renali, Prostatită
+ 7	Dermatologie	              Eczemă, Psoriazis, Acnee
+ 8	Psihiatrie	                    Depresie, Anxietate, Tulburare bipolară
+ 9	Pneumologie	              Astm, Bronșită, Pneumonie
+ 10	Gastroenterologie	    Gastrită, Reflux gastroesofagian, Sindrom de colon iritabil
+ 11	Endocrinologie	        Diabet zaharat, Hipotiroidism, Hipertiroidism
+ 12	Stomatologie	            Carie dentară, Gingivită, Abces dentar
+ 13	Pediatrie	                    Varicelă, Rujeolă, Otită la copii
 
 # Mod de utilizare
 Alege specialitatea introducând numărul corespunzător (1–13).
